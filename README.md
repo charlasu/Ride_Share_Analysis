@@ -1,7 +1,15 @@
 # Ride_Share_Analysis
 Review "Pyber" ride share data to have an understanding of average fare across the number of rides and number of local drivers.
 
-A quick bubble-plot glance shows that the data aligns to one's gut suspicions.
+
+# Overview Comparison of 4 Variables
+A quick bubble-plot glance shows that the data aligns to one's gut suspicions. Here we evaluate:
+* Geographic Type: Urban, Suburban, and Rural (colors)
+* Total Rides per Location (x-axis)
+* Average Fare  per Location (y-axis)
+* Number of Drivers per Location (size of bubbles)
+
+![Visualization of Pyber Ride Data](/HoP_1_Overview.png)  
 
 
 This data proves a few things:
